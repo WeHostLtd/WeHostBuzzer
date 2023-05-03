@@ -4,13 +4,13 @@ import { Container } from 'react-bootstrap';
 export function FooterSimple() {
   return (
     <div id="footer-simple">
-      Built on{' '}
+      Enjoying this event?{' '}
       <a
         target="_blank"
         rel="noopener noreferrer"
-        href="https://github.com/wsun/multibuzzer"
+        href="https://wehostglobal.com"
       >
-        open source
+        Check out the other experiences we offer!
       </a>
     </div>
   );
@@ -25,13 +25,13 @@ export default function Footer({ mobileOnly = false }) {
     <footer className={mobileOnly ? 'd-block d-md-none' : null}>
       <Container>
         <div>
-          Built on{' '}
+          Enjoying this event?{' '}
           <a
             target="_blank"
             rel="noopener noreferrer"
-            href="https://github.com/wsun/multibuzzer"
+            href="https://wehostglobal.com"
           >
-            open source
+            Check out the other experiences we offer!
           </a>
         </div>
       </Container>

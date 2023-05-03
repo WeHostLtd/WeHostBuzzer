@@ -1,9 +1,9 @@
 {
-  "name": "multibuzzer",
+  "name": "WeHostBuzzer",
   "version": "0.1.0",
-  "author": "iamwillsun@gmail.com",
+  "author": "michael@wehostglobal.com",
   "license": "MIT",
-  "repository": "https://github.com/wsun/multibuzzer",
+  "repository": "https://github.com/WeHostLtd/WeHostBuzzer",
   "engines": {
     "node": "16.13.0"
   },

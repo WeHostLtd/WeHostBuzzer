@@ -202,8 +202,8 @@ export default function Lobby({ setAuth }) {
   const touts = (
     <div className="touts">
       <div>
-        <h4>Simple multiplayer buzzer system</h4>
-        <p>Host a room and invite up to 200 people to join</p>
+        <h4>Welcome to Workplace Feud!</h4>
+        <p>Powered by WeHost.</p>
       </div>
       <div>
         <h4>Join on any device</h4>
@@ -212,9 +212,9 @@ export default function Lobby({ setAuth }) {
         </p>
       </div>
       <div>
-        <h4>Free to use</h4>
+        <h4>Refreshments</h4>
         <p>
-          Perfect for online quiz bowl, trivia night, or a classroom activity
+          While you wait, grab a drink and a snack. We'll let you know when the game is ready.
         </p>
       </div>
     </div>

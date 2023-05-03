@@ -1,6 +1,6 @@
 {
-    "name": "Multibuzzer",
-    "short_name": "Multibuzzer",
+    "name": "WeHost Buzzer",
+    "short_name": "WeHost Buzzer",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
