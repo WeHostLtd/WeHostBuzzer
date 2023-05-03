@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'Shegisha';
+  src: local('Shegisha'), url(./fonts/Shegisha.woff) format('woff');
+}
+
 :root {
   --backgroundColor: #ac3706;
   --lightBackgroundColor: #db560a;
@@ -23,7 +28,7 @@ body {
 
 .App {
   color: white;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Rubik', sans-serif;
 }
 
 .App main {
@@ -43,8 +48,9 @@ body {
 
 .App header .navbar-brand {
   color: white;
-  font-weight: 600;
-  font-size: 1.2rem;
+  font-family: 'Shegisha', 'Inter', 'Rubik', sans-serif;
+  font-weight: 500;
+  font-size: 2rem;
   display: flex;
   flex-direction: row;
   align-items: center;
