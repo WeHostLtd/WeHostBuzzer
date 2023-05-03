@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Shegisha';
-  src: local('Shegisha') url('./fonts.js/Shegisha.woff') format('woff');
+  src: local('Shegisha') url('./fonts/Shegisha.woff') format('woff');
 }
 
 body {
